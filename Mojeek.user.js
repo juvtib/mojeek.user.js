@@ -21,9 +21,9 @@
 // ==UserScript==
 // @name         Mojeek
 // @description  Number search results and provide temporary anchors. 
-// @namespace    xxx
+// @namespace    https://github.com/juvtib/mojeek.user.js
 // @match        https://www.mojeek.com/search*
-// @version      1.0
+// @version      1.1
 // @grant        none
 // ==/UserScript==
 
