@@ -5,7 +5,7 @@
 
 This is a simple user script which numbers each result on the [Mojeek](https://www.mojeek.com/) search results page. 
 
-Each result is also provided a temporary link which is shown as a chainlink symbol. Clicking on the link snaps that result to the top of the page. This can be used instead of scrolling. 
+Each result is also provided a temporary link which is shown as a number sign. Clicking on the link snaps that result to the top of the page. This can be used instead of scrolling. 
 
 ## Installing 
 
