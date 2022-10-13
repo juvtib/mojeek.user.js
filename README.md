@@ -13,7 +13,7 @@ This user script must be used in conjunction with a user script browser add-on s
 
 If you want to use something other than Greasemonkey, please read that extension's license and privacy policy before using it. 
 
-Install the script by visiting: xxx
+Install the script by visiting: https://raw.githubusercontent.com/juvtib/mojeek.user.js/main/Mojeek.user.js
 
 Your add-on should offer to install the user script. Using this method will keep the script in sync with this repository. 
 
