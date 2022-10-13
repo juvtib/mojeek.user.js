@@ -27,5 +27,5 @@ Contributions are welcome.
 
 Please create an issue or submit a pull request. 
 
-In principle, I am willing to fix errors or improve the defaults. But, if you want to customize the script by making arbitrary changes then please xxxfork this repository or maintain a private copy of the script. 
+In principle, I am willing to fix errors or improve the defaults. But, if you want to customize the script by making arbitrary changes then please [fork this repository](https://github.com/juvtib/mojeek.user.js/fork) or maintain a private copy of the script. 
 
