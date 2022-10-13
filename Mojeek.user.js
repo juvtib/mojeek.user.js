@@ -23,7 +23,7 @@
 // @description  Number search results and provide temporary anchors. 
 // @namespace    https://github.com/juvtib/mojeek.user.js
 // @match        https://www.mojeek.com/search*
-// @version      1.1
+// @version      1.2
 // @grant        none
 // ==/UserScript==
 
@@ -130,8 +130,8 @@ function eventHandler() {
        // Add class. 
        a.className = "mjkscp-link"; 
     
-       // Add link symbol. 
-       a.innerHTML = "&#x1f517;"; 
+       // Add number sign. 
+       a.innerHTML = "#"; 
 
        // Remove the link from the tab order. 
        a.tabIndex = -1; 
