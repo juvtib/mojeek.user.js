@@ -7,6 +7,8 @@ This is a simple user script which numbers each result on the [Mojeek](https://w
 
 Each result is also provided a temporary link which is shown as a number sign. Clicking on the link snaps that result to the top of the page. This can be used instead of scrolling. 
 
+![Animated GIF of using mojeek.user.js](https://user-images.githubusercontent.com/51273929/198850851-ef51591c-89f1-4bad-af0f-ef8157928bfb.gif)
+
 ## Installing 
 
 This user script must be used in conjunction with a user script browser add-on such as [Greasemonkey for Firefox](https://addons.mozilla.org/firefox/addon/greasemonkey/). 
